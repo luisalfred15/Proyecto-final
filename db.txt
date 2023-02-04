@@ -1,0 +1,240 @@
+{
+	"teams":
+    [
+        {
+			"name": "Saman F.C.",
+			"stadium": {
+				"name": "Saman Arena",
+				"map": {
+					"general": [3, 5],
+					"vip": [3, 2]
+				}
+			},
+			"lineup": [{
+					"name": "Donna Santos",
+					"number": 22,
+					"position": "Goalkeeper"
+				},
+				{
+					"name": "Unity Emilia",
+					"number": 10,
+					"position": "defense"
+				},
+				{
+					"name": "Lev Vera",
+					"number": 20,
+					"position": "defense"
+				},
+				{
+					"name": "Hammett Vera",
+					"number": 14,
+					"position": "defense"
+				},
+				{
+					"name": "Medge Felipe",
+					"number": 13,
+					"position": "defense"
+				},
+				{
+					"name": "Amal Garner",
+					"number": 11,
+					"position": "midfielder"
+				},
+				{
+					"name": "Melissa Reynolds",
+					"number": 2,
+					"position": "midfielder"
+				},
+				{
+					"name": "James Mcgee",
+					"number": 3,
+					"position": "midfielder"
+				},
+				{
+					"name": "Maite Gonzales",
+					"number": 4,
+					"position": "midfielder"
+				},
+				{
+					"name": "Ricardo Perez",
+					"number": 16,
+					"position": "striker"
+				},
+				{
+					"name": "Richard Le",
+					"number": 15,
+					"position": "striker"
+				}
+			]
+		},
+		{
+			"name": "Paraninfo Club.",
+			"stadium": {
+				"name": "Centro Paraninfo",
+				"map": {
+					"general": [4, 4],
+					"vip": [4, 1]
+				}
+			},
+			"lineup": [{
+					"name": "Maria Gonzalez",
+					"number": 1,
+					"position": "Goalkeeper"
+				},
+				{
+					"name": "Adrian Perez",
+					"number": 4,
+					"position": "defense"
+				},
+				{
+					"name": "Camilo Andrade",
+					"number": 5,
+					"position": "defense"
+				},
+				{
+					"name": "Veronica Santamonica",
+					"number": 8,
+					"position": "defense"
+				},
+				{
+					"name": "Carlos Kal",
+					"number": 2,
+					"position": "defense"
+				},
+				{
+					"name": "Anael Azul",
+					"number": 10,
+					"position": "midfielder"
+				},
+				{
+					"name": "Jenny Rodler",
+					"number": 11,
+					"position": "midfielder"
+				},
+				{
+					"name": "Marcos Quentro",
+					"number": 23,
+					"position": "midfielder"
+				},
+				{
+					"name": "Sofia Izturiz",
+					"number": 13,
+					"position": "midfielder"
+				},
+				{
+					"name": "Cristiano Arnaldo",
+					"number": 9,
+					"position": "striker"
+				},
+				{
+					"name": "Diego Sim",
+					"number": 18,
+					"position": "striker"
+				}
+			]
+		},
+		{
+			"name": "Las Alcantarillas C.F.",
+			"stadium": {
+				"name": "Celaup Stadium",
+				"map": {
+					"general": [5, 5],
+					"vip": [5, 2]
+				}
+			},
+			"lineup": [{
+					"name": "Antonio Guerra",
+					"number": 12,
+					"position": "Goalkeeper"
+				},
+				{
+					"name": "Mario Castaneda",
+					"number": 8,
+					"position": "defense"
+				},
+				{
+					"name": "Gabriel Colmenares",
+					"number": 5,
+					"position": "defense"
+				},
+				{
+					"name": "Omar Vina",
+					"number": 4,
+					"position": "defense"
+				},
+				{
+					"name": "Stefania Tassinari",
+					"number": 2,
+					"position": "defense"
+				},
+				{
+					"name": "Eduardo Mila",
+					"number": 10,
+					"position": "midfielder"
+				},
+				{
+					"name": "Tuto Comodo",
+					"number": 11,
+					"position": "midfielder"
+				},
+				{
+					"name": "Maria Lopez",
+					"number": 23,
+					"position": "midfielder"
+				},
+				{
+					"name": "Henrique Hernandez",
+					"number": 13,
+					"position": "midfielder"
+				},
+				{
+					"name": "Lionel Metzi",
+					"number": 9,
+					"position": "striker"
+				},
+				{
+					"name": "Armando Rodriguez",
+					"number": 18,
+					"position": "striker"
+				}
+			]
+		}
+	],
+	"referees": ["Maria Pilar", "Rafael Matienzo", "Christian Guillen"],
+	"restaurant": [{
+			"name": "Doble Cheese Burger",
+			"price": 11.99,
+			"quantity": 10,
+			"type": "c",
+			"packing": false
+		},
+		{
+			"name": "Santa Teresa 1976",
+			"price": 20,
+			"quantity": 9,
+			"type": "b",
+			"alcoholic": true
+		},
+		{
+			"name": "12 Pack Pesis",
+			"price": 16,
+			"quantity": 3,
+			"type": "b",
+			"alcoholic": false
+		},
+		{
+			"name": "Doritos",
+			"packing": true,
+			"price": 1.5,
+			"quantity": 33,
+			"type": "c"
+		},
+		{
+			"name": "Hot Dog",
+			"price": 4.99,
+			"packing": false,
+			"quantity": 13,
+			"type": "c"
+		}
+	]
+}
